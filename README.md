@@ -1,6 +1,6 @@
 # APOO-Trabalho-1
 Trabalho desenvolvido por: Allyson Gustavo Silva do Carmo
-Matéria: Turma: DIM0116 - LINGUAGEM DE PROGRAMAÇÃO II - T02 (2023.1)
+Turma: DIM0116 - LINGUAGEM DE PROGRAMAÇÃO II - T02 (2023.1)
 
 Essa aplicação é um programa de gerenciamento de estoque para um mercado fictício chamado "Mercadinho Vermelhinho", inspirado no mercado real do meu pai. O código em Java define várias classes e interfaces relacionadas ao estoque, produtos e vendas.
 
